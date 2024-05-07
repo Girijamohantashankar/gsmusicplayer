@@ -1,0 +1,11 @@
+-----Backend API------
+
+1)npm install express multer
+2) 
+1
+.)Punjabi
+.)Bhajpuri
+.)English
+.)Jhumar
+.)Hindi
+.)Odia

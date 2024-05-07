@@ -1,0 +1,6 @@
+.popup-content button{
+    cursor: pointer;
+    padding: 5px;
+    background-color: red;
+    color: #fff;
+}
