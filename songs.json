@@ -1,0 +1,463 @@
+[
+  {
+    "id": 47,
+    "title": "Hindi Old Song",
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+    "artist": "___",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "  Panche Ke Nache Aiha ||के_इस_गाने_ने_भोजपुरी_का_रिकॉर्ड_तोड़_दिया",
+    "image": "https://i.ytimg.com/vi/VQIMt-Eqtoo/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Pawan_Singh_%E0%A4%95%E0%A5%87_%E0%A4%87%E0%A4%B8_%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A5%87_%E0%A4%A8%E0%A5%87_%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%80_%E0%A4%95%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A1_%E0%A4%A4%E0%A5%8B%E0%A4%A1%E0%A4%BC_%E0%A4%A6%E0%A4%BF%E0%A4%AF%E0%A4%BE_%23Dj_Video_Song___%E0%A4%AA%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A5%87_%E0%A4%95%E0%A5%87_%E0%A4%A8%E0%A4%BE%E0%A4%9A%E0%A5%87_%E0%A4%85%E0%A4%87%E0%A4%B9%E0%A4%BE___DjRavi(256k).mp3"
+  },
+  {
+    "id": 20,
+    "title": "Hari Hari Odhani Tohar Chhutal Kawana Bagiya Ae Gori",
+    "image": "https://i.ytimg.com/vi/phwamOtWWTM/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Power_Star_%23Pawan_Singh_%E0%A4%95%E0%A4%BE_%E0%A4%AA%E0%A5%89%E0%A4%B5%E0%A4%B0%E0%A4%AB%E0%A5%81%E0%A4%B2_%23VIDEO___%E0%A4%B9%E0%A4%B0%E0%A5%80_%E0%A4%B9%E0%A4%B0%E0%A5%80_%E0%A4%93%E0%A4%A2%E0%A4%BC%E0%A4%A8%E0%A5%80___Ft._%23Dimpal_Singh___Bhojpuri_Song_2022(256k).mp3"
+  },
+  {
+    "id": 14,
+    "title": "Rajaji Ke Dilwa",
+    "image": "https://i.ytimg.com/vi/NPi4mScNBic/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video_-_%23Pawan_Singh_-_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%9C%E0%A5%80_%E0%A4%95%E0%A5%87_%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A4%B5%E0%A4%BE___%23Shivani_Singh___Rajaji_Ke_Dilwa___New_Bhojpuri_Song_2023(256k).mp3"
+  },
+  {
+    "id": 5,
+    "title": "Dhaniya Ae Jaan",
+    "image": "https://i.ytimg.com/vi/vD5JbXw6rhY/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video_-_%E0%A4%A7%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%8F_%E0%A4%9C%E0%A4%BE%E0%A4%A8___%23Pawan_Singh,_%23Shilpi_Raj___Dhaniya_Ae_Jaan___Chandani_Singh___New_Song_2023(256k).mp3"
+  },
+  {
+    "id": 6,
+    "title": " Nathuniya",
+    "image": "https://i.ytimg.com/vi/iYRqAc10Ii8/hqdefault.jpg?v=6628a38c",
+    "artist": "Khesari_Lal",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video___%23Khesari_Lal_New_Song_~_%E0%A4%A8%E0%A4%A5%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE___Priyanka_Singh___Nathuniya__Arshiya_Arshi__Bhojpuri_Gana(256k).mp3"
+  },
+  {
+    "id": 7,
+    "title": "Raja Ji || राजा जी",
+    "image": "https://i.ytimg.com/vi/l3BNgcJxSzc/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video___%23Pawan_Singh___%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE_%E0%A4%9C%E0%A5%80___Raja_Ji___%23Shivani_Singh___Aastha_Singh___Bhojpuri_Hit_Song(256k).mp3"
+  },
+  {
+    "id": 8,
+    "title": "Kala Chashma Laga Lijiye",
+    "image": "https://i.ytimg.com/vi/OC1FN7ZSoXs/maxresdefault.jpg",
+    "artist": "_Neelkamal_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video___%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE_%E0%A4%9A%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BE_%E0%A4%B2%E0%A4%97%E0%A4%BE_%E0%A4%B2%E0%A5%80%E0%A4%9C%E0%A4%BF%E0%A4%8F___Neelkamal_Singh___Mahima_Gupta___New_Bhojpuri_Song(256k).mp3"
+  },
+  {
+    "id": 9,
+    "title": "Chulhi Mein Jhok Di (Chulhi Me Jhok Di ||चूल्ही_में_झोंक_दी",
+    "image": "https://i.ytimg.com/vi/T726GDVpA0Q/maxresdefault.jpg",
+    "artist": "Shivani_Singh || Parul_Yadav",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video___%E0%A4%9A%E0%A5%82%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A5%80_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%9D%E0%A5%8B%E0%A4%82%E0%A4%95_%E0%A4%A6%E0%A5%80___%23Shivani_Singh___Parul_Yadav___Chulhi_Mein_Jhok_Di___New_Bhojpuri_Song(256k).mp3"
+  },
+  {
+    "id": 10,
+    "title": "Sent Gamkauwa",
+    "image": "https://i.ytimg.com/vi/oVVCi-vF6ZA/maxresdefault.jpg",
+    "artist": "Shivani_Singh || Parul_Yadav",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23Video___%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%97%E0%A4%AE%E0%A4%95%E0%A4%89%E0%A4%86___%23Shivani_Singh___Parul_Yadav___Sent_Gamkauwa___New_Bhojpuri_Song_2023___GMJ(256k).mp3"
+  },
+  {
+    "id": 11,
+    "title": "Kamar Kare Lach Lach Lach",
+    "image": "https://i.ytimg.com/vi/Qo06bMjGuGk/maxresdefault.jpg",
+    "artist": "neelkamal_singh ||",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%23video____%E0%A4%95%E0%A4%AE%E0%A4%B0_%E0%A4%95%E0%A4%B0%E0%A5%87_%E0%A4%B2%E0%A4%9A_%E0%A4%B2%E0%A4%9A____%23neelkamal_singh____Kamar_Kare_Lach_Lach____New_Bhojpuri_Hits_Song_2023(256k).mp3"
+  },
+  {
+    "id": 12,
+    "title": "Dhani Ho Sab Dhan",
+    "image": "https://i.ytimg.com/vi/DbEPCRxgf_4/maxresdefault.jpg",
+    "artist": "Pawan_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/4K_Video_-_Pawan_Singh_-_%E0%A4%A7%E0%A4%A8%E0%A5%80_%E0%A4%B9%E0%A5%8B_%E0%A4%B8%E0%A4%AC_%E0%A4%A7%E0%A4%A8___Shivani_Singh___Dhani_Ho_Sab_Dhan___Bhojpuri_Song_2023(256k).mp3"
+  },
+  {
+    "id": 13,
+    "title": "5 Taara",
+    "image": "https://i.ytimg.com/vi/MsTW5cyWKj4/hqdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/5_Taara__Audio_Lyrical____Diljit_Dosanjh___Latest_Punjabi_Songs_2020___Speed_Records(256k).mp3"
+  },
+
+  {
+    "id": 4,
+    "title": "8 Parche",
+    "image": "https://i.ytimg.com/vi/8WWv5_k8D14/maxresdefault.jpg",
+    "artist": "Baani_Sandhu || Gur_Sidhu || Gurneet Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/8_Parche___Baani_Sandhu___Gur_Sidhu___Gurneet_Dosanjh___Punjabi_Song___Ishtar_Punjabi_%23punjabisong(256k).mp3"
+  },
+  {
+    "id": 15,
+    "title": "All Black Full Song",
+    "image": "https://i.ytimg.com/vi/ReXw6TOnUOc/maxresdefault.jpg",
+    "artist": "SUKHE & RAFTAAR || RAP: RAFTAAR",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/All_Black_Full_Song___Sukhe___Raftaar____New_Video__2015___T-Series(256k).mp3"
+  },
+  {
+    "id": 16,
+    "title": "BABY GIRL ",
+    "image": "https://i.ytimg.com/vi/Y4C7CnXmFfk/maxresdefault.jpg",
+    "artist": "Guru Randhawa & Dhvani Bhanushali",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Baby_Girl___Guru_Randhawa_Dhvani_Bhanushali___Remo_D_Souza___Bhushan_Kumar___Vee(256k).mp3"
+  },
+  {
+    "id": 17,
+    "title": "Bheegi Bheegi Raaton Mein",
+    "image": "https://i.ytimg.com/vi/B9t3To99wnA/maxresdefault.jpg",
+    "artist": "Lata Mangeshkar, Kishore Kumar",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Bheegi_Bheegi_Raaton_Mein_-_Jhankar_Beats(256k).mp3"
+  },
+  {
+    "id": 18,
+    "title": "Blue Eyes",
+    "image": "https://images.genius.com/9a9d0b51a85f9dccd388cda1c86f7dde.1000x1000x1.jpg",
+    "artist": "Yo Yo Honey Singh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Blue_Eyes__Lyrics__YO_YO_Honey_Singh(256k).mp3"
+  },
+  {
+    "id": 19,
+    "title": "Chandigarh Mein",
+    "image": "https://i.ytimg.com/vi/oXa226RIZ4g/sddefault.jpg",
+    "artist": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Chandigarh_Mein___Good_Newwz___Akshay_Kumar,_Kareena,_Diljit,_Kiara__Badshah,_Harrdy,_Asees,_Tanishk(256k).mp3"
+  },
+  {
+    "id": 3,
+    "title": "Dard (Visualizer) : Kushagra",
+    "image": "https://i.ytimg.com/vi/V10Eoo6rwN8/sddefault.jpg",
+    "artist": "Kushagra",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Dard__Visualizer____Kushagra___EP_-_Love_19___UR_Debut(256k).mp3"
+  },
+  {
+    "id": 21,
+    "title": "Daru Badnaam (दारू बदनाम)",
+    "image": "https://c.saavncdn.com/125/Daru-Badnaam-Punjabi-2016-20191010170948-500x500.jpg",
+    "artist": "Kamal Kahlon & Param Singh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Daru_Badnaam___Kamal_Kahlon___Param_Singh___Official_Video___Pratik_Studio___Latest_Punjabi_Songs(256k).mp3"
+  },
+  {
+    "id": 22,
+    "title": "Devil-Yaar Naa Miley ",
+    "image": "https://i.ytimg.com/vi/iMmKHLFZn10/maxresdefault.jpg",
+    "artist": "YO YO HONEY SINGH, JASMINE SANDLAS",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Devil-Yaar_Naa_Miley_FULL_VIDEO_SONG___Salman_Khan___Yo_Yo_Honey_Singh___Kick(256k).mp3"
+  },
+  {
+    "id": 23,
+    "title": "G.O.A.T.",
+    "image": "https://i.ytimg.com/vi/cl0a3i2wFcc/maxresdefault.jpg",
+    "artist": "Diljit Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh_-_G.O.A.T.__Official_Music_Video_(256k).mp3"
+  },
+
+  {
+    "id": 24,
+    "title": " Born To Shine",
+    "image": "https://i.ytimg.com/vi/dCmp56tSSmA/hqdefault.jpg?v=6566c8e0",
+    "artist": "Diljit Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh__Born_To_Shine__Official_Music_Video__G.O.A.T(256k).mp3"
+  },
+  {
+    "id": 25,
+    "title": "CASE",
+    "image": "https://i.ytimg.com/vi/etI5Il-vja4/maxresdefault.jpg",
+    "artist": "Diljit Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh__CASE__Official_Video__GHOST(256k).mp3"
+  },
+  {
+    "id": 26,
+    "title": "Do You Know",
+    "image": "https://i.ytimg.com/vi/DT9fEmSL_Lw/maxresdefault.jpg",
+    "artist": "Diljit Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh__Do_You_Know_Lyric_Video___Latest_Punjabi_Song(256k).mp3"
+  },
+  {
+    "id": 27,
+    "title": "Lemonade",
+    "image": "https://i.ytimg.com/vi/Sb9SsxBPBEU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gGSheMA8=&rs=AOn4CLDxadtJcJ9f48G2PVI2XqKwbpIvjA",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh__Lemonade___Visualiser____Drive_Thru(256k).mp3"
+  },
+  {
+    "id": 28,
+    "title": "Love_Ya",
+    "image": "https://i.ytimg.com/vi/OlTVDRy0JxE/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh__Love_Ya__Official_Music_Video____Mouni_Roy(256k).mp3"
+  },
+  {
+    "id": 29,
+    "title": "Raat_Di_Gedi",
+    "image": "https://i.ytimg.com/vi/RQaVzbxZqXY/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Diljit_Dosanjh___Raat_Di_Gedi___Full_Audio___Neeru_Bajwa___Jatinder_Shah___Latest_Punjabi_Song_2018(256k).mp3"
+  },
+  {
+    "id": 30,
+    "title": "मजा उठा रही हो ",
+    "image": "https://i.ytimg.com/vi/zGcf-vcyveg/maxresdefault.jpg",
+    "artist": "Khesari Lal Yadav , Antra Singh Priyanka ",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/GODANWA___Dinesh_Lal_Yadav_%23nirahua_%23Aamrapali_Dubey_%23Shilpi_Raj___%E0%A4%97%E0%A5%8B%E0%A4%A6%E0%A4%A8%E0%A4%B5%E0%A4%BE_@WorldwideRecordsBhojpuri(256k).mp3"
+  },
+  {
+    "id": 31,
+    "title": "Gulabi Sadi - Sanju Rathore",
+    "image": "https://i.ytimg.com/vi/X01Pu1StufI/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Gulabi_Sadi_-_Sanju_Rathore__Lyrics____Lyrical_Bam_Marathi(256k).mp3"
+  },
+
+  {
+    "id": 32,
+    "title": "FASHION",
+    "image": "https://i.ytimg.com/vi/vgr2y70Vlk0/maxresdefault.jpg",
+    "artist": "Guru_Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Guru_Randhawa__FASHION_Video_Song___Latest_Punjabi_Song_2016___T-Series(256k).mp3"
+  },
+  {
+    "id": 33,
+    "title": "High_Rated_Gabru",
+    "image": "https://i.ytimg.com/vi/hjWf8A0YNSE/maxresdefault.jpg",
+    "artist": "Guru_Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Guru_Randhawa__High_Rated_Gabru_Official_Song___DirectorGifty___Bhushan_Kumar___T-Series(256k).mp3"
+  },
+  {
+    "id": 34,
+    "title": "Lahore",
+    "image": "https://i.ytimg.com/vi/dZ0fwJojhrs/maxresdefault.jpg",
+    "artist": "Guru_Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Guru_Randhawa__Lahore__Official_Video__Bhushan_Kumar___Vee___DirectorGifty___T-Series(256k).mp3"
+  },
+  {
+    "id": 35,
+    "title": "MADE_IN_INDIA",
+    "image": "https://i.ytimg.com/vi/pnMQLrS5sTE/maxresdefault.jpg",
+    "artist": "Guru_Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Guru_Randhawa__MADE_IN_INDIA_Full_Audio___Bhushan_Kumar___DirectorGifty___Elnaaz_Norouzi___Vee(256k).mp3"
+  },
+  {
+    "id": 36,
+    "title": "HIGH HEELS",
+    "image": "https://static.toiimg.com/thumb/msid-15628545,width-1070,height-580,imgsize-42237,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "artist": "JAZ DHAMI FT YO YO HONEY SINGH",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/HIGH_HEELS_OFFICIAL_VIDEO_-_JAZ_DHAMI_FT_YO_YO_HONEY_SINGH(256k).mp3"
+  },
+  {
+    "id": 37,
+    "title": "Hardy Sandhu: HORNN BLOW",
+    "image": "https://i.ytimg.com/vi/IssysxAisfo/maxresdefault.jpg",
+    "artist": "HARRDY SANDHU",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Hardy_Sandhu__HORNN_BLOW_Video_Song___Jaani___B_Praak___New_Song_2016___T-Series(256k).mp3"
+  },
+  {
+    "id": 38,
+    "title": "Hass_Hass",
+    "image": "https://i.ytimg.com/vi/jADTdg-o8i0/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Hass_Hass__Official_Video__Diljit_X_Sia(256k).mp3"
+  },
+  {
+    "id": 39,
+    "title": "Heroine",
+    "image": "https://i.ytimg.com/vi/4GRpdIV5DAQ/sddefault.jpg?v=660b981c",
+    "artist": "Neelkamal_Singh",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Heroine__Lyrics__-_Neelkamal_Singh___New_Bhojpuri_Song(256k).mp3"
+  },
+
+  {
+    "id": 40,
+    "title": "ISHARE_TERE",
+    "image": "https://i.ytimg.com/vi/X7qoBlZxosg/sddefault.jpg",
+    "artist": "Guru_Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/ISHARE_TERE_Song___Guru_Randhawa,_Dhvani_Bhanushali___DirectorGifty___Bhushan_Kumar(256k).mp3"
+  },
+  {
+    "id": 41,
+    "title": "Jawan",
+    "image": "https://i.ytimg.com/vi/wr9M-CoxP7A/maxresdefault.jpg",
+    "artist": "Arijit Singh & Shilpa Rao",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/JAWAN__Chaleya__Hindi____Shah_Rukh_Khan___Nayanthara___Atlee___Anirudh___Arijit_S%252C_Shilpa_R___Kumaar(256k).mp3"
+  },
+  {
+    "id": 42,
+    "title": "KAKA Shape",
+    "image": "https://timesofindia.indiatimes.com/photo/msid-98204204/98204204.jpg?resizemode=4",
+    "artist": "Bani katil hasena",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/KAKA%20Shape%20.mp3"
+  },
+  {
+    "id": 43,
+    "title": "LOVE DOSE",
+    "image": "https://i.ytimg.com/vi/TvngY4unjn4/maxresdefault.jpg",
+    "artist": "Yo Yo Honey Singh, Urvashi Rautela",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Love_Dose__Full_Video__Yo_Yo_Honey_Singh___Urvashi_Rautela___Exclusive___Desi_Kalakaar(256k).mp3"
+  },
+  {
+    "id": 44,
+    "title": "Naina | Crew",
+    "image": "https://i.ytimg.com/vi/W1NV2nqiqyw/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Naina___Crew___Diljit_Dosanjh,_Ft._Badshah___Tabu,_Kareena_Kapoor_Khan,_Kriti_Sanon___Raj_Ranjodh(256k).mp3"
+  },
+  {
+    "id": 45,
+    "title": "High End",
+    "image": "https://i.ytimg.com/vi/UCoogBnurWk/sddefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Official_Video__High_End___CON.FI.DEN.TIAL___Diljit_Dosanjh___Song_2018(256k).mp3"
+  },
+  {
+    "id": 46,
+    "title": "Patiala Peg",
+    "image": "https://i.ytimg.com/vi/xB9-dsTC_0U/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Patiala_Peg__Full_Audio____Diljit_Dosanjh___Diljott___Latest_Punjabi_Songs_2019___Speed_Records(256k).mp3"
+  },
+  {
+    "id": 1,
+    "title": "Patola ",
+    "image": "https://i.ytimg.com/vi/btxXHe2E4CQ/maxresdefault.jpg",
+    "artist": "Guru Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Patola__Full_Song__Guru_Randhawa___Bohemia___T-Series(256k).mp3"
+  },
+  {
+    "id": 48,
+    "title": "Proper Patola",
+    "image": "https://i.ytimg.com/vi/YmXJp4RtBCM/maxresdefault.jpg",
+    "artist": "Diljit_Dosanjh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Proper_Patola_-_Official_Video___Namaste_England___Arjun___Parineeti___Badshah___Diljit___Aastha(256k).mp3"
+  },
+  {
+    "id": 49,
+    "title": "Saiyaan Ji",
+    "image": "https://i.ytimg.com/vi/VEkj2sanAeU/maxresdefault.jpg",
+    "artist": " Yo Yo Honey Singh, Neha Kakkar  ",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Saiyaan_Ji__Audio____Yo_Yo_Honey_Singh,_Neha_Kakkar_Nushrratt_Bharuccha___Lil_G,_Hommie_D__Mihir_G(256k).mp3"
+  },
+
+  {
+    "id": 50,
+    "title": "Snapchat story",
+    "image": "https://i.ytimg.com/vi/-RsN3y4cpfQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDMZcTd_646ruXMh7yLKyz7p1lPxQ",
+    "artist": "romee khan",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Sare_karde_ne_timepass_karda_na_koi_sacha_pyar___snapchat_story_-_bilal_saeed_ft._romee_khan_Song(256k).mp3"
+  },
+  {
+    "id": 51,
+    "title": "Suit ",
+    "image": "https://i.ytimg.com/vi/uQ763VvqiEM/maxresdefault.jpg",
+    "artist": "Guru Randhawa",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Suit_Full_Video_Song___Guru_Randhawa_Feat._Arjun___T-Series(256k).mp3"
+  },
+  {
+    "id": 52,
+    "title": "System pe system ",
+    "image": "https://timesofindia.indiatimes.com/photo/msid-98626881,imgsize-205978.cms",
+    "artist": "R Maan",
+    "categories": ["Hindi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/System_pe_system_-_R_Maan_(_lyrics_)(256k).mp3"
+  },
+  {
+    "id": 53,
+    "title": "Saree Se Tadi  || साड़ी से ताड़ी",
+    "image": "https://i.ytimg.com/vi/ly6YmY3wpls/mqdefault.jpg",
+    "artist": "Pawan Singh, Shilpi Raj",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Video_-_Pawan_Singh___%E0%A4%B8%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80_%E0%A4%B8%E0%A5%87_%E0%A4%A4%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80___Shilpi_Raj_Ft_Smrity_Sinha___Saree_Se_Tadi___Bhojpuri_Song_2022(256k).mp3"
+  },
+  {
+    "id": 54,
+    "title": "DIL CHORI",
+    "image": "https://i.ytimg.com/vi/eXBkFr_s3Bc/maxresdefault.jpg",
+    "artist": "Yo Yo Honey Singh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/Yo_Yo_Honey_Singh__DIL_CHORI__Video__Simar_Kaur,_Ishers___Hans_Raj_Hans___Sonu_Ke_Titu_Ki_Sweety(256k).mp3"
+  },
+  {
+    "id": 55,
+    "title": "One Bottle Down",
+    "image": "https://i.ytimg.com/vi/TwFBtV13KQQ/maxresdefault.jpg",
+    "artist": "Yo_Yo_Honey_Singh",
+    "categories": ["Punjabi"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/_One_Bottle_Down__Full_Song_with_LYRICS___Yo_Yo_Honey_Singh___T-SERIES(256k).mp3"
+  },
+  {
+    "id": 56,
+    "title": "Mor Bela 2.0",
+    "image": "https://i.ytimg.com/vi/rDBynmM2iC8/maxresdefault.jpg",
+    "artist": "pankaj ",
+    "categories": ["Odia"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/mote%20kete.mp3"
+  },
+  {
+    "id": 57,
+    "title": "Kamariya Dole",
+    "image": "https://i.ytimg.com/vi/OW71e03R4_Q/sddefault.jpg",
+    "artist": "Neelkamal Singh and SHILPI RAJ ",
+    "categories": ["Bhajpuri"],
+    "audio": "https://github.com/Girijamohantashankar/Music_app_H/raw/main/%E0%A4%95%E0%A4%AE%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%A1%E0%A5%8B%E0%A4%B2%E0%A5%87___%23Neelkamal_Singh___%23Shilpi_Raj___Kamariya_Gole_Gole_Dole_Raja_Ji___%23Bhojpuri_Song_2023(256k).mp3"
+  }
+]
